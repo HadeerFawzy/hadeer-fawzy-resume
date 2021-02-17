@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hadeer-fawzy-resume/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hadeer-fawzy-resume/static/js/main.241cf4ef.chunk.js",
+    "main.js.map": "/hadeer-fawzy-resume/static/js/main.241cf4ef.chunk.js.map",
+    "runtime-main.js": "/hadeer-fawzy-resume/static/js/runtime-main.81369bed.js",
+    "runtime-main.js.map": "/hadeer-fawzy-resume/static/js/runtime-main.81369bed.js.map",
+    "static/js/2.2d99041a.chunk.js": "/hadeer-fawzy-resume/static/js/2.2d99041a.chunk.js",
+    "static/js/2.2d99041a.chunk.js.map": "/hadeer-fawzy-resume/static/js/2.2d99041a.chunk.js.map",
+    "static/js/3.9807341d.chunk.js": "/hadeer-fawzy-resume/static/js/3.9807341d.chunk.js",
+    "static/js/3.9807341d.chunk.js.map": "/hadeer-fawzy-resume/static/js/3.9807341d.chunk.js.map",
+    "index.html": "/hadeer-fawzy-resume/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hadeer-fawzy-resume/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2d99041a.chunk.js.LICENSE.txt": "/hadeer-fawzy-resume/static/js/2.2d99041a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hadeer-fawzy-resume/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81369bed.js",
+    "static/js/2.2d99041a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.241cf4ef.chunk.js"
+  ]
+}
