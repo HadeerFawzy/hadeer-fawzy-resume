@@ -1,7 +1,5 @@
 import { createMuiTheme } from "@material-ui/core/styles";
 
-const defaultTheme = createMuiTheme();
-
 let theme = createMuiTheme({
   breakpoints: {
     values: {
@@ -16,11 +14,14 @@ let theme = createMuiTheme({
   palette: {
     primary: {
       lightt: '#bbdfc8',
-      main: "#75cfb8",
+      main: "#16697a",
     },
     secondary: {
       light: '#f0e5d8',
-      main: "#ffc478"
+      main: "#db6400"
+    },
+    grey:{
+      light: '#F9F9F9',
     },
     typography: {
       light: '#EFEFEF',
@@ -29,10 +30,17 @@ let theme = createMuiTheme({
     }
   },
   typography: {
-    fontFamily: "'Rubik', sans-serif",
+    fontFamily: "'Nunito', sans-serif",
     fontFamilySecondary: "'Roboto Slab', serif",
+    h1: {
+      fontFamily: "'Lobster Two', cursive",
+      fontSize: "4rem",
+    },
+    h2: {
+      fontSize: "2rem",
+    },
     body1: {
-      fontFamily: "'Rubik', sans-serif",
+      fontFamily: "'Nunito', sans-serif",
       fontSize: "1rem",
     },
   },
