@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/hadeer-fawzy-resume/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/hadeer-fawzy-resume/static/js/main.55a955e6.chunk.js",
-    "main.js.map": "/hadeer-fawzy-resume/static/js/main.55a955e6.chunk.js.map",
-    "runtime-main.js": "/hadeer-fawzy-resume/static/js/runtime-main.81369bed.js",
-    "runtime-main.js.map": "/hadeer-fawzy-resume/static/js/runtime-main.81369bed.js.map",
-    "static/js/2.2d99041a.chunk.js": "/hadeer-fawzy-resume/static/js/2.2d99041a.chunk.js",
-    "static/js/2.2d99041a.chunk.js.map": "/hadeer-fawzy-resume/static/js/2.2d99041a.chunk.js.map",
-    "static/js/3.9807341d.chunk.js": "/hadeer-fawzy-resume/static/js/3.9807341d.chunk.js",
-    "static/js/3.9807341d.chunk.js.map": "/hadeer-fawzy-resume/static/js/3.9807341d.chunk.js.map",
+    "main.js": "/hadeer-fawzy-resume/static/js/main.e2fa70d4.chunk.js",
+    "main.js.map": "/hadeer-fawzy-resume/static/js/main.e2fa70d4.chunk.js.map",
+    "runtime-main.js": "/hadeer-fawzy-resume/static/js/runtime-main.8801d817.js",
+    "runtime-main.js.map": "/hadeer-fawzy-resume/static/js/runtime-main.8801d817.js.map",
+    "static/js/2.727c965f.chunk.js": "/hadeer-fawzy-resume/static/js/2.727c965f.chunk.js",
+    "static/js/2.727c965f.chunk.js.map": "/hadeer-fawzy-resume/static/js/2.727c965f.chunk.js.map",
+    "static/js/3.e670ea38.chunk.js": "/hadeer-fawzy-resume/static/js/3.e670ea38.chunk.js",
+    "static/js/3.e670ea38.chunk.js.map": "/hadeer-fawzy-resume/static/js/3.e670ea38.chunk.js.map",
     "index.html": "/hadeer-fawzy-resume/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/hadeer-fawzy-resume/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2d99041a.chunk.js.LICENSE.txt": "/hadeer-fawzy-resume/static/js/2.2d99041a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hadeer-fawzy-resume/static/media/logo.6ce24c58.svg"
+    "static/js/2.727c965f.chunk.js.LICENSE.txt": "/hadeer-fawzy-resume/static/js/2.727c965f.chunk.js.LICENSE.txt",
+    "static/media/bg_3.5db90066.jpg": "/hadeer-fawzy-resume/static/media/bg_3.5db90066.jpg",
+    "static/media/hadeer.0bf23b1a.jpg": "/hadeer-fawzy-resume/static/media/hadeer.0bf23b1a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81369bed.js",
-    "static/js/2.2d99041a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.55a955e6.chunk.js"
+    "static/js/runtime-main.8801d817.js",
+    "static/js/2.727c965f.chunk.js",
+    "static/js/main.e2fa70d4.chunk.js"
   ]
 }
