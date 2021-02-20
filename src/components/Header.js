@@ -30,6 +30,7 @@ const useStyles = makeStyles((theme) => ({
   name: {
     color: theme.palette.primary.main,
     marginBottom: theme.spacing(1),
+    textShadow: '0px 3px 2px #00000038',
     [theme.breakpoints.down('md')]: {
       fontSize: theme.typography.pxToRem(32),
     },
@@ -57,6 +58,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: fade(theme.palette.primary.main, 1),
     maxWidth: theme.spacing(50),
     margin: theme.spacing(1, 'auto'),
+    boxShadow: '0px 2px 4px 0px rgb(0 0 0 / 29%)',
     '& svg': {
       background: theme.palette.secondary.main,
       padding: theme.spacing(1),
@@ -91,6 +93,7 @@ const useStyles = makeStyles((theme) => ({
     height: theme.spacing(37.5),
     margin: '0 auto',
     border: `${theme.spacing(2.2)} solid ${theme.palette.primary.main}`,
+    boxShadow: '-1px 2px 4px 1px rgb(0 0 0 / 45%)',
     '& img': {
       maxWidth: '101%',
       height: '101%',
