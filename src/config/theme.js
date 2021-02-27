@@ -53,6 +53,16 @@ let theme = createMuiTheme({
       maxWidth: "xl",
     }
   },
+  overrides: {
+    MuiCssBaseline: {
+      '@global': {
+        body: {
+          fontFamily: "'Nunito', sans-serif",
+          margin: 0,
+        },
+      },
+    },
+  },
   spacing: (factor) => `${0.5 * factor}rem`,
 });
 
